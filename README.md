@@ -66,7 +66,8 @@ cd QR-Code-Generator
 
 ## 📸 Demo / Preview
 
-👉 (Add screenshot here for better impact)
+👉 <img width="1350" height="636" alt="Screenshot" src="https://github.com/user-attachments/assets/0395480d-518b-44d6-ac43-3adf446188d8" />
+
 
 ---
 
