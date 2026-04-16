@@ -3,6 +3,12 @@
 A fast and user-friendly **QR Code Generator** that allows users to instantly create QR codes from text, URLs, or any custom input. Built with simplicity and performance in mind, this project demonstrates practical frontend development and API integration skills.
 
 ---
+## 🚀 Live Demo
+
+👉 https://qr-code-generator-sage-six.vercel.app/
+
+---
+
 
 ## 📌 Features
 
